@@ -2,9 +2,9 @@
 
 Flipcart is the E-commerce website.
 
-https://www.flipkart.com/search?q=best%20laptop&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+Webscrapping from this website to scrape best laptop
 
-Webscrapping from this website to scrape best laptop among the available website
+https://www.flipkart.com/search?q=best%20laptop&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
 
 scrapped information include:
 
